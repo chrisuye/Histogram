@@ -1,0 +1,10 @@
+package histogram;
+
+public class Histogram_Cl {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

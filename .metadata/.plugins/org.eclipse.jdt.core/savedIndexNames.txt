@@ -1,0 +1,3 @@
+INDEX VERSION 1.131 OT2+/Users/chris/Desktop/JAVA/histogram/.metadata/.plugins/org.eclipse.jdt.core
+520256478.index
+3622984261.index
